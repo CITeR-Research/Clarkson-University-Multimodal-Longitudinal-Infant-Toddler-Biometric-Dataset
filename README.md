@@ -27,7 +27,7 @@ Collection Summary:
 
 | Biometric Modality | Hardware Device(s) | Total Files | Files / Subject / Session |
 | :--- | :--- | :--- | :--- |
-| Fingerprint | HID L Scan 1000 ppi Scanner | xxx | 2 Still Frames |
+| Fingerprint | System I: HID L Scan 1000 ppi Scanner, System II: Synolo 3000 ppi scanner | System I: xxx, System II: xxx | System I: 2 Still Frames, System II\*: 20 Still Frames  |
 | Footprint | HID L Scan 1000 ppi Scanner |xxx  | 4 Still Frames |
 | Face and Ear | Cannon EOS 90D |xxx  | 2 and 4 Still Frames respectively |
 | Iris | PayEye Custom Infant Camera | xxx | Still image extracted from a 10–20-second video capture |

@@ -38,12 +38,13 @@ Collection Summary:
 
 1. Hossain, Afzal, Mst Rumana Sumi, and Stephanie Schuckers.  
    *Evaluating Deep Learning-Based Face Recognition for Infants and Toddlers: Impact of Age Across Developmental Stages.*  
-   Accepted to appear at the **2025 IEEE International Joint Conference on Biometrics (IJCB)**, 2025.
+   Accepted to 2025 IEEE International Joint Conference on Biometrics (IJCB), 2025.
 
 2. Sumi, Mst Rumana A., Masudul H. Imtiaz, and Stephanie Schuckers.  
    *A Longitudinal Study on Fingerprint Recognition in Infants, Toddlers, and Children.*  
-   In **2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)**, pp. 1–4. IEEE, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10781797)
+   In [2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://ieeexplore.ieee.org/abstract/document/10781797), pp. 1–4. IEEE, 2024.
 
 3. Khondkar, Md Jahangir Alam, Md Abdul Baset Sarker, Masudul Haider Imtiaz, and Stephanie Schuckers.  
    *Development of a NIR-based Infant Iris Scanner.*  
-   In **2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)**, pp. 1–4. IEEE, 2024. [IEEE Xplore](https://ieeexplore.ieee.org/document/10781495)
+   In [2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://ieeexplore.ieee.org/abstract/document/10781495), pp. 1–4. IEEE, 2024.
+

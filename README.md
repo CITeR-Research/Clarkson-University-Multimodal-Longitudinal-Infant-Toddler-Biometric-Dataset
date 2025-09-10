@@ -6,18 +6,19 @@ Please contact citer@clarkson.edu and indicate the specific dataset.
 Technical Contact: Stephanie Schuckers, sschucke@clarkson.edu 
 
 Data were collected from six different modalities at an approximate time interval of 15 days to 3 months, longitudinally over 2 years. Collected at the Canton Pediatric Office and Clarkson University. Funded by the CITeR and National Science Foundation. This biometric dataset collection contains data of six biometric modalities. Few modalities are collected using more than one sensor:
-- Fingerprints
-- Footprints
-- Face
-- Ear
-- NIR Iris
-- Palm
+
+* Fingerprints
+* Footprints
+* Face
+* Ear
+* NIR iris
+* Voice recordings
 
 Collection Summary:
 
 **Time Span:** 2 years
 
-**Sessions:** 6 sessions 
+**Sessions:** 8 sessions 
 
 **Participation Count:** 30
 

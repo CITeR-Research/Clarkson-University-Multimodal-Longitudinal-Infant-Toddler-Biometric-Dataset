@@ -31,7 +31,7 @@ Collection Summary:
 | Fingerprint | System I: HID L Scan 1000 ppi scanner,  System II: Synolo 3000 ppi scanner | System I: 323, System II: xxx | System I: 4 Still Frames, System II\*: 20 Still Frames  |
 | Footprint | HID L Scan 1000 ppi Scanner |364  | 4 Still Frames |
 | Face and Ear | Cannon EOS 90D |780  | 2 and 4 Still Frames respectively |
-| Iris | PayEye Custom Infant Camera | xxx | Still image extracted from a 10–20-second video capture |
+| Iris | PayEye Custom Infant Camera | xxx | Still image extracted from a 10–20 seconds video capture |
 | Palm | System I: Cannon EOS 90D, System II: Synolo 3000 ppi scanner | System I: xxx, System II: xxx | System I: 4 Still Frames, System II\*\*: 12 Still Frames |
 
 
